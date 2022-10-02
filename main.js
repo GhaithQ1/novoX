@@ -31,6 +31,6 @@ window.onscroll = function () {
       "linear-gradient(#152d38  , #0c0e1b)";
   } else {
     document.querySelector(".main").style.background =
-      "linear-gradient(#461443  , #0c0e1b)";
+      "linear-gradient(#1a0818  , #1a0718)";
   }
 };

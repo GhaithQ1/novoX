@@ -6,7 +6,7 @@
 
 body{
     font-family: system-ui;
-    background: linear-gradient(#461443  , #0c0e1b);
+    background: linear-gradient(#1a0818  , #1a0718);
     min-height: 100vh;
 
 }
@@ -39,7 +39,6 @@ flex-direction: column;
 .header h1{
     margin: 0 !important;
     justify-content: center;
-    font-size: 40px;
 }
 .header ul li{
     margin: 0 !important;
@@ -81,6 +80,7 @@ flex-direction: column;
 .header h1{
     text-transform: uppercase;
     margin: 0 0 0 30px;
+    font-size: 40px;
 }
 
 
